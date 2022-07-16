@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.renestel</groupId>
     <artifactId>parent</artifactId>
-    <version>00.00.005</version>
+    <version>00.00.006-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>parent</name>
     <description>parent</description>
@@ -26,7 +26,7 @@
     <scm>
         <connection>scm:git:https://git@github.com:RenEstel/parent.git</connection>
         <developerConnection>scm:git:https://git@github.com/RenEstel/parent.git</developerConnection>
-        <tag>v00.00.005</tag>
+        <tag>parent-00.00.000</tag>
         <url>https://github.com/RenEstel/parent</url>
     </scm>
 
